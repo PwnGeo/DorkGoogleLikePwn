@@ -40,21 +40,9 @@ Ahh! Configuration are done now. NOW we will see how to use the dorker tool with
 
 ## Query Methods
 
-### Method1:
-
-```bash
-dorker -q "inurl:api site:bentley.com" --output google_dorks.txt
-
-```
-
-### Method2:
-
-```bash
-dorker -d bentley.com -q inurl:api -o google_dorks.txt
-
-```
 
 Query Methods are depends on your's and I preferred Method 1 will be best for all to get better results and for complicated dorking queries
+
 
 
 ## Issues:
@@ -65,22 +53,4 @@ Facing any issues? create a new issues and submit the issues you are facing in g
 # Support
 
 Im the developer for these tools and try the other Tools in my repos for bug hunters and Show ur love ♥️ and give a ⭐ for this project
-Which will encourage me to develop tools like this and also another tools I have made for subdomain enumeration which best in results and its features and Thanks to all supporters! in advance
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Which will encourage me to develop tools like this and also another tools I have made for subdomain enumeration which best in results and its features and Thanks to all supporters!
