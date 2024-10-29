@@ -63,9 +63,9 @@ def write_results(results):
 def main():
     print(f"{reset}{banner}{reset}")
     
-    # api_key = "AIzaSyBekYJ96XEL03QemYbSUkvSsQUaJjhiSD4" #Safevuln
+    # api_key = "AIzaSyBekYJ96XEL03QemYbSUkvSsQUaJjhiSD4" #S
     # cse_id = "f75b84647d8e14069"  # Chỉ cần ID, không cần script tag
-    api_key = "AIzaSyDznIAeDiZWbwGBQzWPcB9F59ZEX9G42V0" #Teemotiktok008
+    api_key = "AIzaSyDznIAeDiZWbwGBQzWPcB9F59ZEX9G42V0" #Te
     cse_id = "4747fdd48f92645ba"  # Chỉ cần ID, không cần script tag    
     
     query = args.query
