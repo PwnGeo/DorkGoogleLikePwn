@@ -65,8 +65,11 @@ def main():
     
     # api_key = "AIzaSyBekYJ96XEL03QemYbSUkvSsQUaJjhiSD4" #S
     # cse_id = "f75b84647d8e14069"  # Chỉ cần ID, không cần script tag
+    # api_key = "AIzaSyBaYH0muWGmDoi7cOM39RFw0hYlplJZIc0" #I
+    # cse_id = "76c666bdc600c4b61"  # Chỉ cần ID, không cần script tag   
     api_key = "AIzaSyDznIAeDiZWbwGBQzWPcB9F59ZEX9G42V0" #Te
     cse_id = "4747fdd48f92645ba"  # Chỉ cần ID, không cần script tag    
+   
     
     query = args.query
     results = google_search(api_key, cse_id, query)
