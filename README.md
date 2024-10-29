@@ -9,65 +9,11 @@ GoogleDorker is a command-line-based Google Dorking tool designed for bug hunter
 - **Free Google APIs:** Utilize Google's free APIs to access powerful search capabilities.
 - **Run Anywhere:** Google Dorker ability run anywhere in any OS so no dependency required in you Operating system
 
-# Usage:
-```bash
-usage: dorker [-h] [-q QUERY] [-d DOMAIN] [-o OUTPUT]
-
-A Powerfull Tool for google dorking
-
-options:
-  -h, --help            show this help message and exit
-  -q QUERY, --query QUERY
-                        [ALERT]:G oogle dorking query for your target
-  -d DOMAIN, --domain DOMAIN
-                        [ALERT]:Target name for Google dorking
-  -o OUTPUT, --output OUTPUT
-                        [ALERT]:File name to save the dorking results that are found
-```
-
-# Installation for All users:
-
-## Method 1:
-
-```bash
-pip install dorker
-
-git clone https://github.com/sanjai-AK47/GoogleDorker.git
-
-dorker -h
-
-```
-
-## Method 2:
-
-```bash
-git clone https://github.com/sanjai-AK47/GoogleDorker.git
-pip install .
-dorker -h
-```
-
 # Information:
 
 For all users preferred Method 1 installtions for easy installtion and configuration for your api's after a successfull
 Installation go to Dorker directory and located google-dorker.yaml file and configure your api keys as mentioned bellow
 
-
-# Configurations:
-
-Configure your api keys as a syntax That I have mentioned below
-
-```yaml
-
-Google-API: #Unlimited key are good
-
-  - # API keys here
-
-Google-CSE-ID: #Limited Id is enough
-
-  - # your CSE id og goole
-
-
-```
 
 ## How to Get api keys and CSE-ID? Follow my steps here!:
 
@@ -118,9 +64,8 @@ Facing any issues? create a new issues and submit the issues you are facing in g
 
 # Support
 
-Hey guys Im [D.Sanjai Kumar](https://github.com/sanjai-AK47) Im the developer for these tools and try the other Tools in my repos for bug hunters and Show ur love ♥️ and give a ⭐ for this project
-Which will encourage me to develop tools like this and also another tools I have made for subdomain enumeration which best in results and modes check it out the [Subdominator](https://github.com/sanjai-AK47/Subdominator) and its features
-and Thanks to all supporters! in advance
+Im the developer for these tools and try the other Tools in my repos for bug hunters and Show ur love ♥️ and give a ⭐ for this project
+Which will encourage me to develop tools like this and also another tools I have made for subdomain enumeration which best in results and its features and Thanks to all supporters! in advance
 
 
 
