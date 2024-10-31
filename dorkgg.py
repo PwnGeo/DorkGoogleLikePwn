@@ -67,6 +67,8 @@ def main():
     # cse_id = "f75b84647d8e14069"  # Chỉ cần ID, không cần script tag
     # api_key = "AIzaSyBaYH0muWGmDoi7cOM39RFw0hYlplJZIc0" #I
     # cse_id = "76c666bdc600c4b61"  # Chỉ cần ID, không cần script tag   
+    # api_key = "AIzaSyD_rzgjQhpk9X-gBDQhfY-yZmZpnwNXt9s" #Tee
+    # cse_id = "7436e5db7733242d8"  # Chỉ cần ID, không cần script tag   
     api_key = "AIzaSyDznIAeDiZWbwGBQzWPcB9F59ZEX9G42V0" #Te
     cse_id = "4747fdd48f92645ba"  # Chỉ cần ID, không cần script tag    
    
